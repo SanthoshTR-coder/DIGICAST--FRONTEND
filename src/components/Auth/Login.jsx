@@ -56,7 +56,7 @@ const Login = () => {
       <div className="max-w-md w-full space-y-8">
         <div className="text-center">
           <h2 className="mt-6 text-3xl font-extrabold text-white">
-            Sign in to DIGICAST account
+            Sign in to your DIGICAST account
           </h2>
           <p className="mt-2 text-sm text-gray-400">
             Or{' '}
@@ -127,12 +127,12 @@ const Login = () => {
             >
               {loading ? 'Signing in...' : 'Sign in'}
             </button>
+            <hr></hr>
+            <b>DEVELOPED BY SANTHOSH T R</b>
           </div>
         </form>
       </div>
-      <footer className="text-center py-4 text-gray-400 text-sm">
-  © {new Date().getFullYear()} Developed by <span className="font-semibold">SanthoshTR</span>
-</footer>
+      
 
     </div>
   );
