@@ -130,8 +130,9 @@ const Login = () => {
             <hr/>
           </div>
         </form>
-       <p >
-  &copy; 2025 DEVELOPED BY <strong>SANTHOSH T R</strong>
+       <center</center><p >
+  &copy; 2025 DEVELOPED BY SANTHOSH T R
+       <center></center><p >
 </p>
 
 
