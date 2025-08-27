@@ -130,10 +130,9 @@ const Login = () => {
             <hr/>
           </div>
         </form>
-       <center</center><p >
+       <center><p >
   &copy; 2025 DEVELOPED BY SANTHOSH T R
-       <center></center><p >
-</p>
+</p></center>
 
 
       </div>
