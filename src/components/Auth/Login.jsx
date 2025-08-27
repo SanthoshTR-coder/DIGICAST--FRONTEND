@@ -130,7 +130,10 @@ const Login = () => {
             <hr/>
           </div>
         </form>
-        <b>DEVELOPED BY SANTHOSH T R</b>
+       <footer style="text-align:center; padding: 10px; font-size:14px; color:#555;">
+  &copy; 2025 DEVELOPED BY <strong>SANTHOSH T R</strong>
+</footer>
+
       </div>
       
 
