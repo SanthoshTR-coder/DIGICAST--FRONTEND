@@ -127,10 +127,10 @@ const Login = () => {
             >
               {loading ? 'Signing in...' : 'Sign in'}
             </button>
-            <hr></hr>
-            <b>DEVELOPED BY SANTHOSH T R</b>
+            <hr/>
           </div>
         </form>
+        <b>DEVELOPED BY SANTHOSH T R</b>
       </div>
       
 
