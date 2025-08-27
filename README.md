@@ -211,17 +211,9 @@ evoting-system/
 4. Push to branch (`git push origin feature/new-feature`)
 5. Create Pull Request
 
-## License
-
-This project is licensed under the MIT License.
-
 ## Support
 
 For support and questions:
 - Create an issue on GitHub
 - Check documentation
 - Review API endpoints
-
----
-
-Built with ❤️ using MERN Stack
